@@ -24,6 +24,7 @@ I'm a **Computer Science student & Flutter developer** focused on building clean
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedatef0@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/ahmedateif0)
 
+
 ---
 
 # 💻 Tech Stack
