@@ -4,7 +4,7 @@
   <img src="[C:\Users\MEDIA\Downloads\My Designs\mobile-development-concept-message-roll-software-programming-mobile-phone\1034.jpg" width="100%" />
 </div>
 
-# 💫 About Me 
+# 💫 About Me    
 
 I'm a **Computer Science student & Flutter developer** focused on building clean, scalable, and modern mobile applications. I regularly improve my skills through real projects, UI/UX work, and competitive programming.
 
