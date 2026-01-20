@@ -63,12 +63,29 @@ I'm a **Computer Science student & Flutter developer** focused on building clean
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![WindowsForms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
 ### 🔹 Design Tools
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge\&logo=sketchup\&logoColor=white)
+
+---
+
+## 🧠 Algorithms, Data Structures & Data Analysis
+
+![Algorithms](https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2196F3?style=for-the-badge)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-9C27B0?style=for-the-badge)
+
+- **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
+- **Algorithms**: Sorting, Searching, Greedy, Divide & Conquer, Graph Algorithms
+- **Problem Solving**: Competitive Programming (Codeforces)
+- **Complexity Analysis**: Time & Space Complexity (Big O)
+- **Data Analysis**: Data Cleaning, Exploration, Basic Statistics
+- **Data Mining**: Pattern Discovery, Classification, Clustering
 
 ---
 
