@@ -71,9 +71,7 @@ I'm a **Computer Science student & Flutter developer** focused on building clean
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge\&logo=sketchup\&logoColor=white)
 
----
-
-## 🧠 Algorithms, Data Structures & Data Analysis
+### 🔹 Algorithms, Data Structures & Data Analysis
 
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge)
