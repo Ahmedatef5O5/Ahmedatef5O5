@@ -32,6 +32,12 @@ I'm a **Computer Science student & Flutter developer** focused on building clean
   <a href="https://wa.me/201550835238"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/user-attachments/files/27418398/Ahmed_Atef.Fathi_Software.Engineering_resume.pdf">
+    <img src="https://img.shields.io/badge/Download_My_Resume-FF4B4B?style=for-the-badge&logo=pdf&logoColor=white" alt="Download Resume" />
+  </a>
+</div>
+
 <br/>
 
 ## 🛠 Tech Stack & Tools
@@ -41,6 +47,7 @@ I'm a **Computer Science student & Flutter developer** focused on building clean
     <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,firebase,nodejs,mongodb,postman,git,github,figma,cpp,cs,java,python,vscode,androidstudio&perline=8" />
   </a>
 </div>
+
 
 <br/>
 <div align="center">
