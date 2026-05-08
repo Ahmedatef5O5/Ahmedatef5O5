@@ -48,7 +48,6 @@ I'm a **Computer Science student & Flutter developer** focused on building clean
   </a>
 </div>
 
-
 <br/>
 <div align="center">
   <img src="https://img.shields.io/badge/ZEGOCLOUD-1055FF?style=for-the-badge&logo=webrtc&logoColor=white" alt="Zegocloud"/>
@@ -62,14 +61,17 @@ I'm a **Computer Science student & Flutter developer** focused on building clean
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedatef5O5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedatef5O5&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmedatef5O5&theme=tokyonight" width="98%" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmedatef5O5&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmedatef5O5&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmedatef5O5&theme=tokyonight" width="32%" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedatef5O5&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Ahmedatef5O5&theme=tokyonight&hide_border=true" width="55%" />
 </div>
 
 <br/>
