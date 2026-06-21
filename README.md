@@ -33,7 +33,7 @@ I'm a **Computer Science student & Flutter developer** focused on building clean
 </div>
 
 <div align="center">
-  <a href="https://github.com/user-attachments/files/27418398/Ahmed_Atef.Fathi_Software.Engineering_resume.pdf">
+  <a href="https://github.com/user-attachments/files/29170740/Ahmed_Atef_Fathi_Flutter_Developer_CV.pdf">
     <img src="https://img.shields.io/badge/Download_My_Resume-FF4B4B?style=for-the-badge&logo=pdf&logoColor=white" alt="Download Resume" />
   </a>
 </div>
